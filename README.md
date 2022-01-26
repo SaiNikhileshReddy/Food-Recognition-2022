@@ -8,4 +8,4 @@ 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
 
 # Resources
 1. Project Template Example: https://github.com/lucmos/nn-template/tree/mwe 
-2. 
+2. Dataset Conversion: [Activeloop COCO Example](https://github.com/activeloopai/examples/blob/main/coco/upload_coco.ipynb)
