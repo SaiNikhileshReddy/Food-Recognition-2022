@@ -6,3 +6,6 @@ Link: https://www.aicrowd.com/challenges/food-recognition-benchmark-2022
 # Resources
 1. Project Template Example: https://github.com/lucmos/nn-template/tree/mwe 
 2. Dataset Conversion: [Activeloop COCO Example](https://github.com/activeloopai/examples/blob/main/coco/upload_coco.ipynb)
+
+# Updates
+* 12 Feb 2022 : Opensourced the project Finally (after procastinating for two weeks). Next in my schedule is to start working with the model.
