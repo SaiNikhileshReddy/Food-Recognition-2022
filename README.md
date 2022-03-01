@@ -8,4 +8,5 @@ Link: https://www.aicrowd.com/challenges/food-recognition-benchmark-2022
 2. Dataset Conversion: [Activeloop COCO Example](https://github.com/activeloopai/examples/blob/main/coco/upload_coco.ipynb)
 
 # Updates
+* Currently : Working on data structureing for the dataset
 * 12 Feb 2022 : Opensourced the project Finally (after procastinating for two weeks). Next in my schedule is to start working with the model.
